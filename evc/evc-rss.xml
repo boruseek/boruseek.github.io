@@ -38,5 +38,59 @@
       <itunes:duration>3743</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+  <item>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>026</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <title>Episode 026 - Parent Effectiveness Training, Part Two</title>
+    <description>
+      P.E.T - Chapter 3
+    </description>
+    <enclosure
+      length="56361507"
+      type="audio/mpeg"
+      url="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/evc/026EVCPodcast.mp3"
+    />
+    <guid>026EVCPodcast</guid>
+    <pubDate>Wed, 18 Jun 2014 12:00:00 GMT</pubDate>
+    <itunes:duration>4697</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>036</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <title>Episode 036 - Parent Effectiveness Training, Part Three</title>
+    <description>
+      P.E.T - Chapter 5
+    </description>
+    <enclosure
+      length="42366876"
+      type="audio/mpeg"
+      url="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/evc/036EVCPodcast.mp3"
+    />
+    <guid>036EVCPodcast</guid>
+    <pubDate>Thu, 18 Aug 2014 12:00:00 GMT</pubDate>
+    <itunes:duration>2648</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>062</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <title>Episode 062 - Parent Effectiveness Training, Part Four</title>
+    <description>
+      P.E.T - Chapter 3 Workshop
+    </description>
+    <enclosure
+      length="50398040"
+      type="audio/mpeg"
+      url="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/evc/062EVCPodcast.mp3"
+    />
+    <guid>062EVCPodcast</guid>
+    <pubDate>Fri, 3 Jul 2015 12:00:00 GMT</pubDate>
+    <itunes:duration>4200</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   </channel>
 </rss>
