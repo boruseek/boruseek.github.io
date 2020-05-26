@@ -20,5 +20,23 @@
       <itunes:category text="Pieceful"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>013</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Episode 013 - Parent Effectiveness Training, Part One</title>
+      <description>
+        P.E.T - Chapter 1 & 2
+      </description>
+      <enclosure
+        length="44912640"
+        type="audio/mpeg"
+        url="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/evc/013EVCPodcast.mp3"
+      />
+      <guid>013EVCPodcast</guid>
+      <pubDate>Fri, 07 Mar 2014 12:00:00 GMT</pubDate>
+      <itunes:duration>3743</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
