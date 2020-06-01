@@ -8,14 +8,14 @@
     <itunes:author>Harry Edson Browne</itunes:author>
     <description>
     </description>
-    <pubDate>Fri, 3 Jul 2015 12:00:00 GMT</pubDate>
+    <pubDate>Sun, 26 Sep 2004 12:00:00 GMT</pubDate>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
       <itunes:name>Harry Browne Investment Show</itunes:name>
       <itunes:email></itunes:email>
     </itunes:owner>
     <itunes:image
-      href="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/harrybrown/investment/harrybrowne-investment.jpg"
+      href="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/harrybrowne/investment/harrybrowne-investment.jpg"
     />
     <itunes:category text="Investing">
       <itunes:category text="Permanent Portfolio"/>
@@ -91,6 +91,78 @@
     <guid>04HarryBrowneInvestmentShow</guid>
     <pubDate>Sun, 29 Aug 2004 12:00:00 GMT</pubDate>
     <itunes:duration>2273</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>05</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <title>Episode 05</title>
+    <description>
+      Harry Browne Investment Show - Episode 05
+    </description>
+    <enclosure
+      length="5698373"
+      type="audio/mpeg"
+      url="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/harrybrowne/investment/04-09-05.mp3"
+    />
+    <guid>05HarryBrowneInvestmentShow</guid>
+    <pubDate>Sun, 5 Sep 2004 12:00:00 GMT</pubDate>
+    <itunes:duration>2279</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>06</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <title>Episode 06</title>
+    <description>
+      Harry Browne Investment Show - Episode 06
+    </description>
+    <enclosure
+      length="5704637"
+      type="audio/mpeg"
+      url="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/harrybrowne/investment/04-09-12.mp3"
+    />
+    <guid>06HarryBrowneInvestmentShow</guid>
+    <pubDate>Sun, 12 Sep 2004 12:00:00 GMT</pubDate>
+    <itunes:duration>2282</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>07</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <title>Episode 07</title>
+    <description>
+      Harry Browne Investment Show - Episode 07
+    </description>
+    <enclosure
+      length="5645183"
+      type="audio/mpeg"
+      url="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/harrybrowne/investment/04-09-19.mp3"
+    />
+    <guid>07HarryBrowneInvestmentShow</guid>
+    <pubDate>Sun, 19 Sep 2004 12:00:00 GMT</pubDate>
+    <itunes:duration>2258</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>08</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <title>Episode 08</title>
+    <description>
+      Harry Browne Investment Show - Episode 08
+    </description>
+    <enclosure
+      length="6170252"
+      type="audio/mpeg"
+      url="https://raw.githubusercontent.com/boruseek/boruseek.github.io/master/harrybrowne/investment/04-09-26.mp3"
+    />
+    <guid>08HarryBrowneInvestmentShow</guid>
+    <pubDate>Sun, 26 Sep 2004 12:00:00 GMT</pubDate>
+    <itunes:duration>2468</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
   </channel>
